@@ -1,0 +1,228 @@
+INFO  [2015-05-09 23:16:28,573] main                 pid 48188@Alexstraza
+DEBUG [2015-05-09 23:16:28,573] main                 Using property file ../bin/auth.properties
+DEBUG [2015-05-09 23:16:28,573] main                 Properties are:
+DEBUG [2015-05-09 23:16:28,574] main                     java.vendor = Oracle Corporation
+DEBUG [2015-05-09 23:16:28,574] main                     log4j.appender.FILE = org.apache.log4j.RollingFileAppender
+DEBUG [2015-05-09 23:16:28,574] main                     sun.java.launcher = SUN_STANDARD
+DEBUG [2015-05-09 23:16:28,574] main                     sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.remote_db_hostname = 127.0.0.1
+DEBUG [2015-05-09 23:16:28,574] main                     os.name = Windows 8.1
+DEBUG [2015-05-09 23:16:28,574] main                     sun.boot.class.path = C:\Program Files\Java\jre1.8.0_45\lib\resources.jar;C:\Program Files\Java\jre1.8.0_45\lib\rt.jar;C:\Program Files\Java\jre1.8.0_45\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_45\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_45\lib\jce.jar;C:\Program Files\Java\jre1.8.0_45\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_45\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_45\classes
+DEBUG [2015-05-09 23:16:28,574] main                     sun.desktop = windows
+DEBUG [2015-05-09 23:16:28,574] main                     java.vm.specification.vendor = Oracle Corporation
+DEBUG [2015-05-09 23:16:28,574] main                     java.runtime.version = 1.8.0_45-b15
+DEBUG [2015-05-09 23:16:28,574] main                     user.name = Source
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.db_user = root
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.remote_db_enabled = false
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.remote_db_driver = com.mysql.jdbc.Driver
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.master_rdp_port = 9010
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.remote_db_user = root
+DEBUG [2015-05-09 23:16:28,574] main                     user.language = en
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.jdbcJarPath = ../other/mysql-connector-java-3.1.14-bin.jar
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.log_rdp_counters = false
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.db_type = mysql
+DEBUG [2015-05-09 23:16:28,574] main                     sun.boot.library.path = C:\Program Files\Java\jre1.8.0_45\bin
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.db_driver = com.mysql.jdbc.Driver
+DEBUG [2015-05-09 23:16:28,574] main                     java.version = 1.8.0_45
+DEBUG [2015-05-09 23:16:28,574] main                     log4j.rootLogger = DEBUG, FILE
+DEBUG [2015-05-09 23:16:28,574] main                     user.timezone = America/Los_Angeles
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.remote_db_type = mysql
+DEBUG [2015-05-09 23:16:28,574] main                     sun.arch.data.model = 64
+DEBUG [2015-05-09 23:16:28,574] main                     java.endorsed.dirs = C:\Program Files\Java\jre1.8.0_45\lib\endorsed
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.db_name = master
+DEBUG [2015-05-09 23:16:28,574] main                     sun.cpu.isalist = amd64
+DEBUG [2015-05-09 23:16:28,574] main                     sun.jnu.encoding = Cp1252
+DEBUG [2015-05-09 23:16:28,574] main                     file.encoding.pkg = sun.io
+DEBUG [2015-05-09 23:16:28,574] main                     atavism.master_tcp_port = 9005
+DEBUG [2015-05-09 23:16:28,574] main                     file.separator = \
+DEBUG [2015-05-09 23:16:28,574] main                     java.specification.name = Java Platform API Specification
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.socketpolicy.bindport = 5090
+DEBUG [2015-05-09 23:16:28,575] main                     java.class.version = 52.0
+DEBUG [2015-05-09 23:16:28,575] main                     log4j.appender.FILE.layout = org.apache.log4j.PatternLayout
+DEBUG [2015-05-09 23:16:28,575] main                     user.country = US
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.remote_db_name = some_db
+DEBUG [2015-05-09 23:16:28,575] main                     java.home = C:\Program Files\Java\jre1.8.0_45
+DEBUG [2015-05-09 23:16:28,575] main                     java.vm.info = mixed mode
+DEBUG [2015-05-09 23:16:28,575] main                     os.version = 6.3
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.remote_db_password = 
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.remote_db_account_table = account
+DEBUG [2015-05-09 23:16:28,575] main                     path.separator = ;
+DEBUG [2015-05-09 23:16:28,575] main                     java.vm.version = 25.45-b02
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.logs = ../logs/master
+DEBUG [2015-05-09 23:16:28,575] main                     user.variant = 
+DEBUG [2015-05-09 23:16:28,575] main                     java.awt.printerjob = sun.awt.windows.WPrinterJob
+DEBUG [2015-05-09 23:16:28,575] main                     sun.io.unicode.encoding = UnicodeLittle
+DEBUG [2015-05-09 23:16:28,575] main                     log4j.appender.FILE.File = ${atavism.logs}/${atavism.loggername}.out
+DEBUG [2015-05-09 23:16:28,575] main                     awt.toolkit = sun.awt.windows.WToolkit
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.db_hostname = 127.0.0.1
+DEBUG [2015-05-09 23:16:28,575] main                     sun.stdout.encoding = cp437
+DEBUG [2015-05-09 23:16:28,575] main                     user.script = 
+DEBUG [2015-05-09 23:16:28,575] main                     user.home = C:\Users\Source
+DEBUG [2015-05-09 23:16:28,575] main                     java.specification.vendor = Oracle Corporation
+DEBUG [2015-05-09 23:16:28,575] main                     java.library.path = c:\ProgramData\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\Users\Source\bin;.;F:\Program Files (x86)\Git\local\bin;F:\Program Files (x86)\Git\mingw\bin;F:\Program Files (x86)\Git\bin;F:\Program Files (x86)\Git\bin;c:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;c:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Skype\Phone\;c:\Program Files\Common Files\Autodesk Shared\;c:\Program Files (x86)\Autodesk\Backburner\;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\Microsoft SQL Server\120\Tools\Binn\;.
+DEBUG [2015-05-09 23:16:28,575] main                     java.vendor.url = http://java.oracle.com/
+DEBUG [2015-05-09 23:16:28,575] main                     java.vm.vendor = Oracle Corporation
+DEBUG [2015-05-09 23:16:28,575] main                     java.runtime.name = Java(TM) SE Runtime Environment
+DEBUG [2015-05-09 23:16:28,575] main                     sun.java.command = atavism.server.engine.MasterServer ../bin/auth_server.py
+DEBUG [2015-05-09 23:16:28,575] main                     java.class.path = ..\other\rhino1_5R5\js.jar;..\other\mysql-connector-java-3.1.14-bin.jar;..\dist\lib\injected.jar;..\dist\lib\atavism.jar;..\dist\lib\agis.jar;..\other\java-getopt-1.0.11.jar;..\other\jython.jar;..\other\log4j-1.2.15.jar;..\other\bcel-5.2.jar;.
+DEBUG [2015-05-09 23:16:28,575] main                     log4j.appender.FILE.MaxBackupIndex = 3
+DEBUG [2015-05-09 23:16:28,575] main                     java.vm.specification.name = Java Virtual Machine Specification
+DEBUG [2015-05-09 23:16:28,575] main                     java.vm.specification.version = 1.8
+DEBUG [2015-05-09 23:16:28,575] main                     sun.cpu.endian = little
+DEBUG [2015-05-09 23:16:28,575] main                     atavism.rotate_logs_on_startup = true
+DEBUG [2015-05-09 23:16:28,575] main                     sun.os.patch.level = 
+DEBUG [2015-05-09 23:16:28,576] main                     java.io.tmpdir = C:\Users\Source\AppData\Local\Temp\
+DEBUG [2015-05-09 23:16:28,576] main                     java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+DEBUG [2015-05-09 23:16:28,576] main                     log4j.appender.FILE.MaxFileSize = 50MB
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.loggername = authentication
+DEBUG [2015-05-09 23:16:28,576] main                     os.arch = amd64
+DEBUG [2015-05-09 23:16:28,576] main                     java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+DEBUG [2015-05-09 23:16:28,576] main                     java.ext.dirs = C:\Program Files\Java\jre1.8.0_45\lib\ext;C:\Windows\Sun\Java\lib\ext
+DEBUG [2015-05-09 23:16:28,576] main                     log4j.appender.FILE.layout.ConversionPattern = %-5p [%d{ISO8601}] %-20t %m%n
+DEBUG [2015-05-09 23:16:28,576] main                     user.dir = e:\Projects\WaR\Assets\Neojac\AtavismServer\atavism_server_v2_3\atavism_server_v2\bin
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.world_available_message = DONE INITIALIZING, you can log in now
+DEBUG [2015-05-09 23:16:28,576] main                     line.separator = 
+
+DEBUG [2015-05-09 23:16:28,576] main                     java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.propertyfile = ../bin/auth.properties
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.db_password = 
+DEBUG [2015-05-09 23:16:28,576] main                     sun.stderr.encoding = cp437
+DEBUG [2015-05-09 23:16:28,576] main                     file.encoding = Cp1252
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.log_level = 1
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.use_salted_passwords = false
+DEBUG [2015-05-09 23:16:28,576] main                     java.specification.version = 1.8
+DEBUG [2015-05-09 23:16:28,576] main                     atavism.socketpolicy.bindaddress = 127.0.0.1
+INFO  [2015-05-09 23:16:28,576] main                 The log level is 1
+INFO  [2015-05-09 23:16:28,577] main                 Atavism server version 2.3.0 0 (- -)
+DEBUG [2015-05-09 23:16:28,731] main                 SecureTokenManager.initDomain: reading domain key. keyId=0x1 algorithm=HmacSHA1
+DEBUG [2015-05-09 23:16:28,734] main                 SocketPolicy: binding for incoming client connections at: /127.0.0.1:5090
+DEBUG [2015-05-09 23:16:28,734] main                 Set policy complete
+DEBUG [2015-05-09 23:16:28,736] main                 TcpServer: bound to /127.0.0.1:5090
+DEBUG [2015-05-09 23:16:28,737] main                 Started server
+DEBUG [2015-05-09 23:16:28,737] main                 SocketPolicy: activation done
+DEBUG [2015-05-09 23:16:28,944] main                 Executing script file: ../bin/auth_server.py
+DEBUG [2015-05-09 23:16:28,944] main                 runPYFile: file=../bin/auth_server.py
+DEBUG [2015-05-09 23:16:28,998] main                 SecureTokenManager.initMaster: master key keyId=0x7 algorithm=DSA
+DEBUG [2015-05-09 23:16:28,998] main                 script completed
+DEBUG [2015-05-09 23:16:29,001] main                 Database: starting keepalive
+DEBUG [2015-05-09 23:16:29,002] main                 *** url = jdbc:mysql://127.0.0.1/master username = root password = 
+DEBUG [2015-05-09 23:16:29,134] main                 RDPServer: starting rdpServerThread with priority 7
+DEBUG [2015-05-09 23:16:29,135] main                 BIND: in Bind with port: 9010
+DEBUG [2015-05-09 23:16:29,135] main                 BIND: about to bind RDPServer
+DEBUG [2015-05-09 23:16:29,135] main                 BIND: about to open datagram channel
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: about to set buffer size for datagram channel: 65536
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: about to bind to dc socket with port: 9010
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: created addr: 0.0.0.0/0.0.0.0:9010
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: got socket: sun.nio.ch.DatagramSocketAdaptor@10745a02
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: bound socket: 
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: getting resulting port: 
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: about to signal channelMapNotEmpty: 
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: about to wake up selector: 
+DEBUG [2015-05-09 23:16:29,136] main                 BIND: about to register RDPServer socket
+DEBUG [2015-05-09 23:16:29,137] main                 BIND: registered RDPServer socket
+INFO  [2015-05-09 23:16:29,137] main                 masterserver: rdp on port 9010
+DEBUG [2015-05-09 23:16:29,139] main                 TcpServer: bound to /0:0:0:0:0:0:0:0:9010
+INFO  [2015-05-09 23:16:29,139] main                 masterserver: tcp on port 9005
+DEBUG [2015-05-09 23:16:29,139] main                 masterserver: tcp server listening on port 9005
+DEBUG [2015-05-09 23:17:29,002] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:17:29,026] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:17:29,051] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:18:29,051] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:18:29,052] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:18:29,073] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:19:29,074] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:19:29,075] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:19:29,095] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:20:29,095] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:20:29,096] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:20:29,112] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:21:29,113] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:21:29,114] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:21:29,130] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:22:29,130] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:22:29,131] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:22:29,151] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:23:29,151] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:23:29,152] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:23:29,171] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:24:29,172] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:24:29,173] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:24:29,185] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:25:29,186] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:25:29,187] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:25:29,205] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:26:29,206] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:26:29,208] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:26:29,226] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:27:29,227] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:27:29,227] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:27:29,236] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:28:29,237] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:28:29,238] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:28:29,258] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:29:29,259] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:29:29,260] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:29:29,277] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:30:29,278] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:30:29,279] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:30:29,298] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:31:29,299] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:31:29,300] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:31:29,319] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:32:29,320] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:32:29,322] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:32:29,339] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:33:29,340] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:33:29,341] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:33:29,358] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:34:29,359] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:34:29,360] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:34:29,378] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:35:29,378] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:35:29,379] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:35:29,392] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:36:29,392] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:36:29,393] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:36:29,411] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:37:29,412] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:37:29,414] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+INFO  [2015-05-09 23:37:29,435] DBKeepalive          Database: reconnected to jdbc:mysql://127.0.0.1/master
+DEBUG [2015-05-09 23:38:29,435] DBKeepalive          Database: ping
+ERROR [2015-05-09 23:38:29,439] DBKeepalive          Database reconnect: url=jdbc:mysql://127.0.0.1/master
+ERROR [2015-05-09 23:38:30,451] DBKeepalive          Database reconnect failed, retrying com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.ConnectException: Connection refused: connect
+
+STACKTRACE:
+
+java.net.SocketException: java.net.ConnectException: Connection refused: connect
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:284)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2569)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1485)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at atavism.server.engine.MasterDatabase.reconnect(MasterDatabase.java:987)
+	at atavism.server.engine.MasterDatabase.ping(MasterDatabase.java:960)
+	at atavism.server.engine.MasterDatabase$KeepAlive.run(MasterDatabase.java:81)
+	at java.lang.Thread.run(Unknown Source)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 1 ms ago.
+       at com.mysql.jdbc.Connection.createNewIO(Connection.java:2643)
+       at com.mysql.jdbc.Connection.<init>(Connection.java:1485)
+       at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+       at java.sql.DriverManager.getConnection(Unknown Source)
+       at java.sql.DriverManager.getConnection(Unknown Source)
+       at atavism.server.engine.MasterDatabase.reconnect(MasterDatabase.java:987)
+       at atavism.server.engine.MasterDatabase.ping(MasterDatabase.java:960)
+       at atavism.server.engine.MasterDatabase$KeepAlive.run(MasterDatabase.java:81)
+       at java.lang.Thread.run(Unknown Source)
